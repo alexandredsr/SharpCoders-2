@@ -31,5 +31,19 @@ public class Program
 
         // interpolacao por referencia
         // Console.WriteLine("outputs: {0}, {1} e {2}", texto, numero, preco);
+
+        //inicializando arrays e como imprimir no terminal
+        int[] minhaArray = new int[10];
+        int[] minhaArray2 = { 1, 3, 2, 7, 6 };
+
+        for (int i = 0; i < 10; i++)
+        {
+            minhaArray[i] = i + 1;
+        }
+
+        for (int i = 0; i < 10; i++)
+        {
+            Console.Write(minhaArray[i] + " ");
+        }
     }
 }
