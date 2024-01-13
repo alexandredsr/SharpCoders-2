@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xdsri\\ima\\c\\SharpCoders-2\\samples\\beecrowd\\beecrowd.csproj",
+      "projectUniqueName": "C:\\Users\\xdsri\\ima\\c\\SharpCoders-2\\samples\\beecrowd\\1003\\beecrowd.csproj",
       "projectName": "beecrowd",
-      "projectPath": "C:\\Users\\xdsri\\ima\\c\\SharpCoders-2\\samples\\beecrowd\\beecrowd.csproj",
+      "projectPath": "C:\\Users\\xdsri\\ima\\c\\SharpCoders-2\\samples\\beecrowd\\1003\\beecrowd.csproj",
       "packagesPath": "C:\\Users\\xdsri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xdsri\\ima\\c\\SharpCoders-2\\samples\\beecrowd\\obj\\",
+      "outputPath": "C:\\Users\\xdsri\\ima\\c\\SharpCoders-2\\samples\\beecrowd\\1003\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xdsri\\AppData\\Roaming\\NuGet\\NuGet.Config"
