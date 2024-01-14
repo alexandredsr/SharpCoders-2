@@ -1,0 +1,15 @@
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\bin\Debug\net8.0\1008.exe
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\bin\Debug\net8.0\1008.deps.json
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\bin\Debug\net8.0\1008.runtimeconfig.json
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\bin\Debug\net8.0\1008.dll
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\bin\Debug\net8.0\1008.pdb
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\1008.AssemblyInfoInputs.cache
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\1008.AssemblyInfo.cs
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\1008.csproj.CoreCompileInputs.cache
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\1008.sourcelink.json
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\1008.dll
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\refint\1008.dll
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\1008.pdb
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\1008.genruntimeconfig.cache
+C:\Users\xdsri\ima\c\SharpCoders-2\samples\beecrowd\1008\obj\Debug\net8.0\ref\1008.dll
