@@ -1,0 +1,15 @@
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/bin/Debug/net6.0/1015
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/bin/Debug/net6.0/1015.deps.json
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/bin/Debug/net6.0/1015.runtimeconfig.json
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/bin/Debug/net6.0/1015.dll
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/bin/Debug/net6.0/ref/1015.dll
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/bin/Debug/net6.0/1015.pdb
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/1015.csproj.AssemblyReference.cache
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/1015.GeneratedMSBuildEditorConfig.editorconfig
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/1015.AssemblyInfoInputs.cache
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/1015.AssemblyInfo.cs
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/1015.csproj.CoreCompileInputs.cache
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/1015.dll
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/ref/1015.dll
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/1015.pdb
+/home/dix-tn/Desktop/IMA/beecrowd/SharpCoders-2/samples/beecrowd/1015/obj/Debug/net6.0/1015.genruntimeconfig.cache
